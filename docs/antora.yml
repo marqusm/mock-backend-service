@@ -1,6 +1,5 @@
-name: mock-backend-service
-title: Mock Backend Service
+name: component-b
+title: Component B
 version: dev
 nav:
 - modules/ROOT/nav.adoc
-
