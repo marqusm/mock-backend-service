@@ -1,0 +1,7 @@
+name: mock-backend-service
+title: Mock Backend Service
+version: 'master'
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
+
