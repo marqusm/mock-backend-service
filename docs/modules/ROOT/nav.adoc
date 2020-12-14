@@ -1,2 +1,3 @@
 * xref:index.adoc[Index]
 * xref:documentation.adoc[Documentation]
+* xref:whats-new.adoc[What's new]

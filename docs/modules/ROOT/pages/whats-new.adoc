@@ -1,0 +1,8 @@
+= What's New
+// Settings
+:idprefix:
+:idseparator: -
+
+These are the changes in the version 3.0.
+
+Version *{page-component-version}*.
