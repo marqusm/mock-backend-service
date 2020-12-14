@@ -1,6 +1,5 @@
 name: mock-backend-service
 title: Mock Backend Service
-version: v2.1
+version: '3.0'
 nav:
 - modules/ROOT/nav.adoc
-
