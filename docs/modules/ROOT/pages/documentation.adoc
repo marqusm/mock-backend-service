@@ -4,3 +4,5 @@
 :idseparator: -
 
 This is the very beginning of our mock-backend-service documentation.
+
+Version *{page-component-version}*.

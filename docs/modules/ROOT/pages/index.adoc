@@ -4,3 +4,5 @@
 :idseparator: -
 
 This is the index page of mock-backend-service.
+
+Version *{page-component-version}*.
